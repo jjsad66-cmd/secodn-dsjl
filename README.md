@@ -1,7 +1,7 @@
 # secodn-dsjl
 adding new one for continue
 <!doctype html>
-<html lang="nkbjh">
+<html lang="hj">
 <head>
   <meta charset="utf-8" />
   <title>Plane Following Birds (p5.js)</title>
